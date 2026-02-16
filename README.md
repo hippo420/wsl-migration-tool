@@ -68,3 +68,6 @@ to:
 ```makefile
 D:\WSL\Ubuntu
 ```
+
+# License
+MIT
